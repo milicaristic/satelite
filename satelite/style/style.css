@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Francois+One&display=swap');
+html{
+    scroll-behavior: smooth;
+}
+body {
+    background-color: #E9E3E6;
+}  
+
+h1{
+    padding: 10px;
+    padding-bottom: 25px;
+    font-size: 50px;
+    font-family: 'Francois One', sans-serif;
+}
+h3,h1{
+    color:#3D3B3D;
+}
+
+th{
+    background-color: #968E8E;
+    color:#5B595B;
+}
+
+td{
+    color:#565055;
+}
+
+th,td{
+    font-size: 20px;
+}
+
+table,th,td{
+    padding: 15px;
+    /* border: 1px solid #444244; */
+    border: none;
+}
+
+.td{
+    background-color: #D8CDCD;
+}
+
+.td:hover {
+    background-color: #E9E3E6;
+}
+
+.container{
+    background-color: #C3BABA;
+}
+
+.two{
+    padding: 10px;
+}
+
+.books{
+    padding: 20px;
+}
+
+
+
+p{
+    color: #565055;
+}
+
+button{
+    border: none;
+    color: #565055;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#books, #authors{
+    background-color: rgb(90, 85, 85); /* Green */
+    padding: 15px 32px;
+    color:white;
+}
+
+th{
+    border: none;
+}
